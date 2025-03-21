@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Jugal Lotwala 
+# Hi 👋, I'm Jugal Lotwala 
 
 Welcome to my GitHub profile! 🚀 I'm passionate about building modern web applications and backend services. I specialize in **ASP.NET Core Web API**, **C#**, and **Angular**. 
 
