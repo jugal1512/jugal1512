@@ -12,6 +12,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
 - Exploring **GraphQL**, **Redis** and its integration with modern web apps
 - Diving into **Docker** and containerization for better deployment strategies
 - Building **CI/CD pipelines** using **GitHub Actions** and **Azure DevOps**
+- I am also expanding my knowledge in the field of **DevOps Engineering**
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jugal-lotwala-699745200/)
