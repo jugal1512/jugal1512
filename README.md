@@ -116,6 +116,10 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
   </i>
 </p>
 
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
+
 ## 🔥 Fun Fact:
 - When I'm not coding, you can find me exploring new technologies or reading up on the latest industry trends. I also enjoy contributing to open-source projects and helping others in the developer community.
 
