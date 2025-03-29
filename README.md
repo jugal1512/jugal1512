@@ -110,8 +110,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
     <a href="https://swagger.io/" target="_blank">
       <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
     </a>
-    <a href="https://azure.microsoft.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+    <a href="https://dev.azure.com/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" /> 
     </a>
   </i>
 </p>
