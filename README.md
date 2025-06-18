@@ -11,7 +11,7 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
 ## 🌱 What I’m learning:
 - Exploring **GraphQL**, **Redis** and its integration with modern web apps
 - Diving into **Docker** and containerization for better deployment strategies
-- Building **CI/CD pipelines** using **GitHub Actions** and **Azure DevOps**
+- Learning to implement **CI/CD pipelines** in .net and angular.
 - I am also expanding my knowledge in the field of **DevOps Engineering**
 
 ## 🔗 Connect with me:
