@@ -16,7 +16,6 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jugal-lotwala-699745200/)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://your-website.com)
 
 ## 🛠️ Technologies & Tools I Use:
 
