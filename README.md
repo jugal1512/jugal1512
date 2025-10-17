@@ -9,10 +9,10 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
 - Writing clean, maintainable code with best practices for scalability
 
 ## 🌱 What I’m learning:
-🚀 Mastering **.NET 9** and **Angular 19** for modern, scalable web apps
-☁️ Expanding into **Cloud Computing with Azure** — focusing on deployment, monitoring, and scalability
-🤖 Exploring **AI integration** using **Azure AI, OpenAI APIs, and Cognitive Services**
-⚙️ Building strong foundations in **Docker, CI/CD pipelines, and DevOps automation**
+- 🚀 Mastering **.NET 9** and **Angular 19** for modern, scalable web apps
+- ☁️ Expanding into **Cloud Computing with Azure** — focusing on deployment, monitoring, and scalability
+- 🤖 Exploring **AI integration** using **Azure AI, OpenAI APIs, and Cognitive Services**
+- ⚙️ Building strong foundations in **Docker, CI/CD pipelines, and DevOps automation**
 
 ## 🔗 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jugal-lotwala-699745200/)
