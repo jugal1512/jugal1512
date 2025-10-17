@@ -10,11 +10,8 @@ Welcome to my GitHub profile! 🚀 I'm passionate about building modern web appl
 
 ## 🌱 What I’m learning:
 🚀 Mastering **.NET 9** and **Angular 19** for modern, scalable web apps
-
 ☁️ Expanding into **Cloud Computing with Azure** — focusing on deployment, monitoring, and scalability
-
 🤖 Exploring **AI integration** using **Azure AI, OpenAI APIs, and Cognitive Services**
-
 ⚙️ Building strong foundations in **Docker, CI/CD pipelines, and DevOps automation**
 
 ## 🔗 Connect with me:
