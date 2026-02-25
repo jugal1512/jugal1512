@@ -1,139 +1,125 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=100&lines=Hi+%F0%9F%91%8B+I'm+Jugal+Lotwala;Full-Stack+Developer" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jugal-lotwala-699745200/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jugallotwala@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=jugal1512&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+### `< Full-Stack Developer />` · `{ AI Enthusiast }` · `// India 🇮🇳`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications+%F0%9F%A4%96;ASP.NET+Core+%2B+Angular+%2B+Azure;Turning+coffee+into+production-ready+code+%E2%98%95)](https://github.com/jugal1512)
+
+<p>
+  <a href="https://www.linkedin.com/in/jugal-lotwala-699745200/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <a href="mailto:jugallotwala@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/></a>
+  <a href="https://github.com/jugal1512"><img src="https://img.shields.io/badge/GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+  <img src="https://komarev.com/ghpvc/?username=jugal1512&label=Profile+Views&color=3B82F6&style=for-the-badge&labelColor=0D1117"/>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
 
-## 🧑‍💻 About Me
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300px"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-```javascript
-const jugal = {
-    role: "Full-Stack Developer & AI Enthusiast",
-    location: "India 🇮🇳",
-    code: ["C#", "TypeScript", "JavaScript", "Python"],
-    currentlyLearning: ["Azure AI", "LLMs", "Microservices"],
-    askMeAbout: ["Web Dev", "AI/ML", "Cloud", "APIs"],
-    currentFocus: "Building AI-powered applications 🤖",
-    funFact: "I turn coffee ☕ into code 💻"
-};
+```typescript
+// jugal.config.ts
+
+const developer = {
+  name     : "Jugal Lotwala",
+  role     : "Full-Stack Developer & AI Engineer",
+  location : "India 🇮🇳",
+  stack    : ["C#", ".NET Core", "Angular", "TypeScript", "Python"],
+  cloud    : ["Azure OpenAI", "Docker", "Microservices"],
+  ai       : ["LLMs", "RAG Systems", "LangChain", "Vector DBs"],
+  current  : "Building AI-powered SaaS products 🚀",
+  contact  : "jugallotwala@gmail.com",
+} as const;
+
+export default developer;
 ```
 
 <br clear="both"/>
 
-## 🛠️ Tech Stack & Tools
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,typescript,js,python,angular,bootstrap,tailwind,nodejs,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,azure,docker,git,github,vscode,postman" />
-</p>
-
-## 💼 What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Web Development
-```yaml
-- Enterprise REST APIs with ASP.NET Core
-- Modern SPAs with Angular
-- Responsive UI/UX Design
-- Database Architecture & Optimization
-- Full-Stack Solutions
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI & Cloud Solutions
-```yaml
-- AI Chatbots & Assistants
-- Document Intelligence Systems
-- Semantic Search Engines
-- Azure Cloud Applications
-- Machine Learning Integration
-```
-
-</td>
-</tr>
-</table>
-
-## 🤖 AI Innovation Focus
-
-```python
-class AIEnthusiast:
-    def __init__(self):
-        self.name = "Jugal Lotwala"
-        self.interests = [
-            "🤖 Large Language Models (LLMs)",
-            "💬 Conversational AI & Chatbots",
-            "☁️ Azure OpenAI Services",
-            "📄 Intelligent Document Processing",
-            "🔍 Semantic Search & RAG Systems",
-            "🧠 Natural Language Processing"
-        ]
-    
-    def current_projects(self):
-        return {
-            "AI_Chatbot": "Smart customer service assistant",
-            "Doc_Intelligence": "Automated document analysis",
-            "Smart_Search": "Vector embeddings + semantic search",
-            "Content_AI": "GPT-powered content generation"
-        }
-    
-    def learning_now(self):
-        return ["Azure AI Services", "LangChain", "Vector Databases", "Microservices"]
-```
-
-
-## 🎯 Current Goals
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-| Status | Goal |
-|--------|------|
-| ✅ | Master Modern Full-Stack Development |
-| 🚀 | Build AI-Powered Production Apps |
-| 🔥 | Contribute to Open Source Projects |
-| 📚 | Obtain Azure AI Certifications |
-| 💡 | Launch AI-Driven SaaS Product |
+### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,python,angular,nodejs&theme=dark" />
+
+### 🎨 Frontend & Styling
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind&theme=dark" />
+
+### 🗄️ Databases & Cloud
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,azure,docker&theme=dark" />
+
+### 🛠️ Dev Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
 
 </div>
 
-## 💬 Let's Connect & Collaborate!
+---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="200" />
-</p>
+## 💼 What I Build & Learning
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jugal-lotwala-699745200/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:jugallotwala@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Drop_a_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/jugal1512">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
+<div align="center">
 
-<h3 align="center">⚡ "Building intelligent solutions, one commit at a time" ⚡</h3>
+🌐 &nbsp;**Full-Stack Web**&nbsp; &nbsp;
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-REST_APIs-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-SPAs-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean-Architecture-3B82F6?style=flat-square)
+![DB](https://img.shields.io/badge/Database-Optimization-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=100&section=footer" width="100%"/>
-</p>
+🤖 &nbsp;**AI & Intelligent Systems**&nbsp; &nbsp;
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-Chatbots-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-FF6B6B?style=flat-square)
+![Document AI](https://img.shields.io/badge/Document-Intelligence-F59E0B?style=flat-square)
+![Vector Search](https://img.shields.io/badge/Vector-Search-8B5CF6?style=flat-square)
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-</p>
+☁️ &nbsp;**Cloud & DevOps**&nbsp; &nbsp;
+![Azure](https://img.shields.io/badge/Azure-Deployments-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microservices](https://img.shields.io/badge/Micro-services-22C55E?style=flat-square)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Pipelines-F97316?style=flat-square)
+
+🔍 &nbsp;**Currently Exploring**&nbsp; &nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-Agents-1C3C3C?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-Vector_DB-6366F1?style=flat-square)
+![Azure AI](https://img.shields.io/badge/Azure-AI_Services-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Event Driven](https://img.shields.io/badge/Event--Driven-Architecture-EC4899?style=flat-square)
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+```
+[████████████████████░░░░] Master Full-Stack Development       ✅ Done
+[████████████░░░░░░░░░░░░] Azure AI Certifications             🔥 In Progress  
+[████████░░░░░░░░░░░░░░░░] Launch AI-Driven SaaS Product       🚀 Building
+[██████░░░░░░░░░░░░░░░░░░] Open Source Contributions           🌱 Starting
+[████░░░░░░░░░░░░░░░░░░░░] Microservices at Scale              📚 Learning
+```
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jugal1512&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10"/>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Dev Philosophy
+
+> *"Don't write code for machines. Write it for the developer who comes after you."*
+
+**Open to:** Collaborations · Freelance · AI Projects · Interesting Conversations
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=80&section=footer" width="100%"/>
+
+</div>
