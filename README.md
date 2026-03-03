@@ -102,14 +102,6 @@ export default developer;
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jugal1512&theme=tokyonight&no-frame=true&column=6&margin-w=10&margin-h=10"/>
-</div>
-
----
-
 <div align="center">
 
 ### 💡 Dev Philosophy
